@@ -47,3 +47,12 @@ https://www.c-sharpcorner.com/article/serialization-and-deserialization-in-c-sha
 https://www.newtonsoft.com/json/help/html/SerializingJSON.htm
 
 ### 6. Data structures (using interfaces vs classes).
+
+References:
+
+https://www.educba.com/c-sharp-interface-vs-abstract-class/
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/interfaces/
+https://stackoverflow.com/questions/1913098/what-is-the-difference-between-an-interface-and-abstract-class
+https://stackoverflow.com/questions/16832280/why-we-do-create-object-instance-from-interface-instead-of-class
+https://specialties.bayt.com/en/specialties/q/6034/why-use-interface-instead-of-creating-a-class-with-implemented-methods-amp-instantiating-amp-using-it/
+
