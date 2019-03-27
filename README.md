@@ -39,4 +39,11 @@ https://piazza-resources.s3.amazonaws.com/j11t8bsxngk3r3/j2lw6zcyt5t6lu/Osherove
 
 ### 5. Serialization.
 
+References:
+
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/serialization/
+https://docs.microsoft.com/en-us/dotnet/framework/wcf/feature-details/how-to-serialize-and-deserialize-json-data
+https://www.c-sharpcorner.com/article/serialization-and-deserialization-in-c-sharp/
+https://www.newtonsoft.com/json/help/html/SerializingJSON.htm
+
 ### 6. Data structures (using interfaces vs classes).
