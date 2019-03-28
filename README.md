@@ -35,9 +35,13 @@ https://www.dotnetcurry.com/linq/750/deferred-vs-immediate-query-execution-linq
 References:
 
 https://stackoverflow.com/questions/3912504/difference-between-inversion-of-control-dependency-inversion-and-decouplin
+
 https://www.equinox.co.nz/blog/dependency-inversion-dependency-injection-inversion-control-programming-interfaces
+
 https://martinfowler.com/articles/dipInTheWild.html
+
 https://www.tutorialsteacher.com/ioc/inversion-of-control
+
 https://softwareengineering.stackexchange.com/questions/311674/how-is-inversion-of-control-related-to-dependency-inversion
 
 ### 4. Unit testing.
