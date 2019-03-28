@@ -6,9 +6,13 @@
 References:
 
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
+
 https://exceptionnotfound.net/asynchronous-programming-in-asp-net-csharp-ultimate-guide/
+
 https://docs.microsoft.com/en-us/dotnet/csharp/async
+
 https://stackoverflow.com/questions/13140523/await-vs-task-wait-deadlock
+
 https://stiller.blog/2012/12/task-wait-vs-await/
 
 ### 2. Deferred execution.
@@ -16,10 +20,15 @@ https://stiller.blog/2012/12/task-wait-vs-await/
 References:
 
 https://www.c-sharpcorner.com/UploadFile/rahul4_saxena/deferred-vs-immediate-query-execution-in-linq/
+
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/deferred-execution-example
+
 https://www.tutorialsteacher.com/linq/linq-deferred-execution
+
 https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ef/language-reference/query-execution
+
 https://www.dotnetcurry.com/linq/750/deferred-vs-immediate-query-execution-linq
+
 
 ### 3. Dependency Inversion of Control.
 
@@ -42,8 +51,11 @@ https://piazza-resources.s3.amazonaws.com/j11t8bsxngk3r3/j2lw6zcyt5t6lu/Osherove
 References:
 
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/serialization/
+
 https://docs.microsoft.com/en-us/dotnet/framework/wcf/feature-details/how-to-serialize-and-deserialize-json-data
+
 https://www.c-sharpcorner.com/article/serialization-and-deserialization-in-c-sharp/
+
 https://www.newtonsoft.com/json/help/html/SerializingJSON.htm
 
 ### 6. Data structures (using interfaces vs classes).
@@ -51,8 +63,12 @@ https://www.newtonsoft.com/json/help/html/SerializingJSON.htm
 References:
 
 https://www.educba.com/c-sharp-interface-vs-abstract-class/
+
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/interfaces/
+
 https://stackoverflow.com/questions/1913098/what-is-the-difference-between-an-interface-and-abstract-class
+
 https://stackoverflow.com/questions/16832280/why-we-do-create-object-instance-from-interface-instead-of-class
+
 https://specialties.bayt.com/en/specialties/q/6034/why-use-interface-instead-of-creating-a-class-with-implemented-methods-amp-instantiating-amp-using-it/
 
